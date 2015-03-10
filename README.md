@@ -11,6 +11,7 @@ Requirements
 
 * Python version >= 2.7
 * AWS CLI version 1.7.13
+* [json2html] (https://pypi.python.org/pypi/json2html/) -- json2html python library -- `pip install json2html`
 
 Usage
 -----
